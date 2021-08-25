@@ -1,0 +1,224 @@
+{
+    "meetingRequests": [
+        {
+            "day": 2,
+            "startTime": 11,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 1,
+            "startTime": 1,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 3,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 3,
+            "startTime": 12,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 5,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 4,
+            "startTime": 7,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 3,
+            "startTime": 0,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 2,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 8,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 0,
+            "startTime": 13,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 14,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 3,
+            "startTime": 1,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 0,
+            "startTime": 10,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 4,
+            "startTime": 4,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 1,
+            "startTime": 14,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 3,
+            "startTime": 7,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 16,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 1,
+            "startTime": 0,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 14,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 11,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 2,
+            "startTime": 12,
+            "lengthInHalfHours": 4
+        },
+        {
+            "day": 0,
+            "startTime": 16,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 17,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 10,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 9,
+            "lengthInHalfHours": 5
+        },
+        {
+            "day": 4,
+            "startTime": 7,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 1,
+            "startTime": 7,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 10,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 12,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 5,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 0,
+            "startTime": 0,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 4,
+            "startTime": 11,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 6,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 11,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 4,
+            "startTime": 14,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 3,
+            "startTime": 11,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 0,
+            "startTime": 14,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 13,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 2,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 2,
+            "startTime": 9,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 13,
+            "lengthInHalfHours": 1
+        }
+    ]
+}

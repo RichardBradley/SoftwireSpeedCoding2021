@@ -1,0 +1,164 @@
+{
+    "meetingRequests": [
+        {
+            "day": 2,
+            "startTime": 2,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 8,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 5,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 12,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 2,
+            "startTime": 7,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 16,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 0,
+            "startTime": 8,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 3,
+            "startTime": 3,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 13,
+            "lengthInHalfHours": 4
+        },
+        {
+            "day": 1,
+            "startTime": 13,
+            "lengthInHalfHours": 4
+        },
+        {
+            "day": 3,
+            "startTime": 2,
+            "lengthInHalfHours": 4
+        },
+        {
+            "day": 0,
+            "startTime": 0,
+            "lengthInHalfHours": 5
+        },
+        {
+            "day": 0,
+            "startTime": 15,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 4,
+            "startTime": 2,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 10,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 3,
+            "startTime": 13,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 9,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 2,
+            "startTime": 2,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 12,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 7,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 2,
+            "startTime": 3,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 16,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 3,
+            "startTime": 13,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 4,
+            "startTime": 0,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 3,
+            "startTime": 0,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 15,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 14,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 2,
+            "startTime": 3,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 1,
+            "startTime": 8,
+            "lengthInHalfHours": 2
+        },
+        {
+            "day": 4,
+            "startTime": 3,
+            "lengthInHalfHours": 3
+        },
+        {
+            "day": 1,
+            "startTime": 5,
+            "lengthInHalfHours": 1
+        },
+        {
+            "day": 0,
+            "startTime": 16,
+            "lengthInHalfHours": 1
+        }
+    ]
+}
