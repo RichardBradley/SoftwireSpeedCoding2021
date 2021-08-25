@@ -17,13 +17,13 @@ Assuming you are using IntelliJ
       2. jackson-module-parameter-names, for binding immutable classes with Jackson
       3. guava, for lots of useful libs including the Preconditions class
       4. lombok, for boilerplate reduction (probably skip this if you're not already familiar with it)
-        * If you are using lombok with jackson-databind, looks like you need the setting I've added in lombok.config
+          * If you are using lombok with jackson-databind, looks like you need the setting I've added in lombok.config
       5. commons-math3, often useful in speed coding for least common multiple, prime testing, nCr and so on
       6. com.google.truth, pretty assertions like assertThat(x).isEqualTo(y)
 
 4. Generate typed classes for our example JSON file
    1. Create the data mapping classes. Use an inner class to keep everything in one file, or split it out for ease of navigation:
-      ```java
+    ```java
     @Value
     static class MenuRoot {
         List<MenuItem> menu;
@@ -34,7 +34,7 @@ Assuming you are using IntelliJ
         String dishName;
         int cost;
     }
-      ```
+    ```
 
    4. Let's add code to read in the JSON file and deserialize it into our structure:
       ```java
