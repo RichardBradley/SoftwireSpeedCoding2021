@@ -1,7 +1,6 @@
 package q0;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.module.paramnames.ParameterNamesModule;
 import com.google.common.base.Stopwatch;
 import com.google.common.io.Resources;
 import lombok.Value;
@@ -12,12 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Q0ExampleMain {
 
-    final ObjectMapper objectMapper;
-
-    public Q0ExampleMain() {
-        objectMapper = new ObjectMapper();
-        objectMapper.registerModule(new ParameterNamesModule());
-    }
+    final ObjectMapper objectMapper = new ObjectMapper();
 
     public static void main(String[] args) throws Exception {
         Stopwatch sw = Stopwatch.createStarted();
