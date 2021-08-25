@@ -30,13 +30,13 @@ public class Q1Main {
         System.out.println("500 = " + probBySum.get(500));
     }
 
-    private Map<Integer, Double> updateProbs(int count, int numSides, Map<Integer, Double> probBySum) {
-        for (int n = 0; n < count; n++) {
+    private Map<Integer, Double> updateProbs(int diceCount, int numFaces, Map<Integer, Double> probBySum) {
+        for (int n = 0; n < diceCount; n++) {
             Map<Integer, Double> newProbBySum = new HashMap<>();
             for (Map.Entry<Integer, Double> entry : probBySum.entrySet()) {
                 int prevSum = entry.getKey();
-                double nextProbPerFace = entry.getValue() / numSides;
-                for (int roll = 1; roll <= numSides; roll++) {
+                double nextProbPerFace = entry.getValue() / numFaces;
+                for (int roll = 1; roll <= numFaces; roll++) {
                     newProbBySum.compute(prevSum + roll, (k, v) -> (v == null ? 0.0 : v) + nextProbPerFace);
                 }
             }
